@@ -96,6 +96,5 @@ A continuación se detallan cada una de las pruebas desarrolladas, explicando su
 
 ##  Ejecución y Demostración Visual de la App
 
-Para correr las pruebas unitarias desde tu terminal:
-```bash
-flutter test
+![ejecucion](evidencias/ejecucion.png)
+![ganaste](evidencias/ganaste.png)
